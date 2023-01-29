@@ -20,4 +20,4 @@
  - ketik echo “# Latihan 1” >> README.md
  - ![echo git](https://user-images.githubusercontent.com/123881225/215335817-e855785b-057f-4ef8-9417-4744eb7dff4a.PNG)
  - file read me berhasil dibuat!!
- - 
+ - Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah **git commit -m “komentar commit”**
