@@ -26,4 +26,12 @@
  - untuk membuat repository di Git Hub kita harus membuat akun Git Hub terlebih dahulu
  - buka laman github http://github.com
  - lalu buat akun sesuai instruksi yang ada
- - 
+ - jika akun sudah berhasil terbuat anda perlu menambahkan repository baru dengan car klik new repository pada lambang akun anda
+ - ![git new repository](https://user-images.githubusercontent.com/123881225/215336434-2813230b-a2b5-48ba-93e6-d798b88a24de.PNG)
+ - isi nama repositorynya lalu klik tombol Create Repository
+ - # melakukan PUSH (mengirim perubahan ke server)
+ - Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
+ - ketik perintah 
+ - $ git push -u origin master
+ - # Cek perubahan yang anda simpan dengan masuk pada akun Git Hub anda 
+
