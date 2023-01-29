@@ -34,4 +34,7 @@
  - ketik perintah 
  - $ git push -u origin master
  - # Cek perubahan yang anda simpan dengan masuk pada akun Git Hub anda 
+ - ![github reposi](https://user-images.githubusercontent.com/123881225/215337332-c73e8835-3008-45fa-ad15-841661abe6a4.PNG)
+ - buka laman Git Hub anda, lalu klik Repository, maka akan terlihat perubahan pada Repository anda
+
 
