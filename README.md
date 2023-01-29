@@ -1,3 +1,4 @@
+![config user git](https://user-images.githubusercontent.com/123881225/215333491-88ddb993-ecf7-4ebd-8825-6f8a4edf4ae0.PNG)
 # LatihanVCS
 cara penggunaan git untuk membuat repository
 Download **Git** melalui website resminya
